@@ -57,7 +57,4 @@ All tables include:
 
 ## 🧑‍💻 Author
 
-Built with ❤️ by [Your Name]
-
----
-
+Built with ❤️ by Audrey, Florence and Gospel
